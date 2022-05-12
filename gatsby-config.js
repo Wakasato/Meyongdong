@@ -18,5 +18,7 @@ module.exports = {
     options: {
       "trackingId": "UA-107941757-1"
     }
-  }]
+  },
+  "gatsby-plugin-mdx",
+]
 };
