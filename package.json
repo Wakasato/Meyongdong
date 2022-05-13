@@ -17,6 +17,8 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
+    "acorn": "^8.7.1",
+    "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^2.0.7",
     "gatsby": "^4.14.0",
     "gatsby-plugin-google-analytics": "^4.14.0",
@@ -25,6 +27,7 @@
     "gatsby-plugin-sharp": "^4.14.0",
     "gatsby-plugin-styled-components": "^5.14.0",
     "gatsby-source-filesystem": "^4.14.0",
+    "gatsby-transformer-sharp": "^4.14.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "styled-components": "^5.3.5"
